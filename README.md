@@ -1,4 +1,4 @@
-# Speech-detection
+# EasyNote
 
 A simple speech recognition web application.
 
